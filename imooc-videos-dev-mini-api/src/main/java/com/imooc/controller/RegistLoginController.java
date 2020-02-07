@@ -84,7 +84,6 @@ public class RegistLoginController extends BasicController {
 		
 //		Thread.sleep(3000);
 		
-		//ceshi
 		
 		// 1. 判断用户名和密码必须不为空
 		if (StringUtils.isBlank(username) || StringUtils.isBlank(password)) {
